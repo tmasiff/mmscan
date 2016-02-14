@@ -1,0 +1,5 @@
+https://sea.battle.net/login/en/ sea.battle.net
+https://us.battle.net/login/en/ us.battle.net
+https://eu.battle.net/login/en/ eu.battle.net
+https://kr.battle.net/login/en/ kr.battle.net
+https://tw.battle.net/login/en/ tw.battle.net
